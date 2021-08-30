@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ZorinX
+Comment=Fork of Zorin OS Desktop Theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ZorinX
+MetacityTheme=ZorinX-Dark
+IconTheme=Tela
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
