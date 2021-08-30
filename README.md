@@ -1,0 +1,2 @@
+# ZorinX
+Zorin OS Theme
