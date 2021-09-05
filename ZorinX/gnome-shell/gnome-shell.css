@@ -110,7 +110,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .popup-menu.panel-menu { -boxpointer-gap: 4px; margin-bottom: 1.75em; }
 
-.popup-menu-content { padding: 12px 0; background-color: rgba(32, 32, 32, 0.9); box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4); margin: 4px 4px 0 4px !important; border-radius: 10px; border: none; }
+.popup-menu-content { padding: 12px 0; background-color: rgba(0, 0, 0, 0.7); box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4); margin: 4px 4px 0 4px !important; border-radius: 10px; border: none; }
 
 .popup-menu-item { margin-left:5px;spacing: 6px; padding: 6px; transition-duration: 150ms; }
 
@@ -611,7 +611,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 .ws-switcher-active-up, .ws-switcher-active-down, .ws-switcher-active-left, .ws-switcher-active-right { height: 52px; background-color: #ffffff; background-gradient-direction: none; background-gradient-start: #f4f1f1; background-gradient-end: white; color: #191919; border: none; border-radius: 10px; }
 
 /* Top Bar */
-#panel { background-color: rgba(25, 25, 25, 0.75); font-weight: bold; height: 2.4em; font-feature-settings: "tnum"; }
+#panel { background-color: rgba(0, 0, 0, 0.75); font-weight: bold; height: 2.4em; font-feature-settings: "tnum"; }
 
 #panel.unlock-screen, #panel.login-screen { background-color: transparent; }
 
